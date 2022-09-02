@@ -1,1 +1,2 @@
-Display current directory contents.
+Diecho Create a script that creates a directory named my_first_directory in the /tmp/ directory. >README.md
+echo Diecho Create a script that creates a directory named my_first_directory in the /tmp/ directory.
