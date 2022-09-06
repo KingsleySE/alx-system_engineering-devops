@@ -1,0 +1,2 @@
+#!/bin/bash
+Sed -3 3p 6-third_line
