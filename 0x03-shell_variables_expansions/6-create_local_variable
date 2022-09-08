@@ -1,2 +1,2 @@
-#!/binbash
-export School="BEST"
+#!/binbash                                                                                                                            
+export BEST="School"
